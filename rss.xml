@@ -4,8 +4,15 @@
         <description><![CDATA[FSH001 Photo Journal]]></description>
         <link>https://thegrid.ai/photojournal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 16:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 16:37:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photojournal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Map of my Mind</p>]]></description>
+            <link>https://thegrid.ai/photojournal/map-of-my-mind/index.html</link>
+            <guid isPermaLink="false">eb4e4cc8-b409-4764-afe9-c0d19261b3f5</guid>
+            <pubDate>Wed, 20 Apr 2016 16:37:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Inspiration</p>]]></description>
