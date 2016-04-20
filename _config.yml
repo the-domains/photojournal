@@ -1,0 +1,29 @@
+name: PhotoJournal
+favicon: null
+layout_spectrum: 0.8424833426252007
+typography_spectrum: 0.8289989628829062
+title: FSH001 Photo Journal
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.00712838489562273
+  lightness: 0.7072420979384333
+  saturation: 0.35190673428587615
+  rhythmicContrast: 0.9189975205808878
+purpose: []
