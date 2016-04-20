@@ -1,7 +1,8 @@
 name: PhotoJournal
 favicon: null
-layout_spectrum: 0.8424833426252007
-typography_spectrum: 0.8289989628829062
+layout_spectrum: 0.98445
+typography_spectrum: 0.60646
+title: FSH001 Photo Journal
 cta:
   domain: null
   bucket: null
@@ -16,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#080a09'
+    - '#32640b'
+    - '#69903d'
+    - '#bec2ab'
+    - '#624732'
   brandStrength: 0.00712838489562273
   lightness: 0.7072420979384333
   saturation: 0.35190673428587615
