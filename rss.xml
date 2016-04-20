@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[FSH001 Photo Journal]]></title>
         <description><![CDATA[FSH001 Photo Journal]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/photojournal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 15:44:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 15:55:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photojournal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Interwebs</p>]]></description>
+            <link>https://thegrid.ai/photojournal/interwebs/index.html</link>
+            <guid isPermaLink="false">96f0b65b-689f-4f3f-b30a-eaf7b8ef48e9</guid>
+            <pubDate>Wed, 20 Apr 2016 15:55:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>A beginning...</p>]]></description>
-            <link>undefineda-beginning/index.html</link>
+            <link>https://thegrid.ai/photojournal/a-beginning/index.html</link>
             <guid isPermaLink="false">d033cafe-f98a-4438-8e0f-4203706b8276</guid>
             <pubDate>Wed, 20 Apr 2016 15:44:43 GMT</pubDate>
         </item>
