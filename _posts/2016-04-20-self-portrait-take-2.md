@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A further exploration of self portraiture, this week was a continuation of the assessment from last week. The result, this:'
-datePublished: '2016-04-21T00:57:34.764Z'
-dateModified: '2016-04-21T00:55:54.569Z'
+datePublished: '2016-04-21T01:04:20.980Z'
+dateModified: '2016-04-21T00:57:43.194Z'
 title: Self Portrait - take 2
 author:
   - name: ''
