@@ -6,18 +6,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: Selfie - take 1
-datePublished: '2016-04-20T16:17:58.391Z'
-dateModified: '2016-04-20T16:17:11.407Z'
-title: ''
-author: []
+datePublished: '2016-04-21T00:46:18.165Z'
+dateModified: '2016-04-21T00:32:12.577Z'
+title: selfie - take 1
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2016-04-20-selfie-take-1.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-selfie-take-1.md
-published: true
 url: selfie-take-1/index.html
 _type: Article
 
@@ -33,9 +35,4 @@ The assessment poses the question how will your image make you stand out from th
 With that in mind, here's take 1 of my self-portrait assessment:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cda7a7a-5f59-40a1-b84b-120657572238.jpg)
 
-I was going for the feel of emerging from the darkness of non-selfiedom here. A
-fast shutter speed and two torches either side of me were used for lighting and
-to darken the white blind behind me. I've positioned myself off-center to add
-an element of tension to reflect the discomfort I had in taking this shot and used black and white to meet the tone of the black
-background (and because I like black and white images). I think I could improve upon the image by a adding a reflector under my chin to bounce some light and lighten the
-shadows.
+I was going for the feel of emerging from the darkness of non-selfiedom here. A fast shutter speed and two torches either side of me were used for lighting and to darken the white blind behind me. I've positioned myself off-center to add an element of tension to reflect the discomfort I had in taking this shot and used black and white to meet the tone of the black background (and because I like black and white images). I think I could improve upon the image by a adding a reflector under my chin to bounce some light and lighten the shadows.
