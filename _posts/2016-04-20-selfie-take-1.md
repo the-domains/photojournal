@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: Selfie - take 1
-datePublished: '2016-04-21T00:46:18.165Z'
-dateModified: '2016-04-21T00:32:12.577Z'
+description: 'The first assessment of this course is to identify how you represent yourself online, through a selfie, self-portrait, or brand. '
+datePublished: '2016-04-21T00:51:12.204Z'
+dateModified: '2016-04-21T00:50:54.716Z'
 title: selfie - take 1
 author:
   - name: ''
@@ -24,7 +24,7 @@ url: selfie-take-1/index.html
 _type: Article
 
 ---
-Selfie - take 1
+# Selfie - take 1
 
 The first assessment of this course is to identify how you represent yourself online, through a selfie, self-portrait, or brand. 
 
