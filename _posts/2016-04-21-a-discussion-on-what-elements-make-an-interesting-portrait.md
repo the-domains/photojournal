@@ -1,15 +1,24 @@
 ---
-hasPage: false
 inFeed: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
+inLanguage: null
 starred: false
+keywords: []
 description: A discussion on what elements make an interesting portrait
-dateModified: '2016-04-21T01:28:52.577Z'
+datePublished: '2016-04-21T01:49:56.025Z'
+dateModified: '2016-04-21T01:48:35.885Z'
 title: ''
 author: []
-datePublished: '2016-04-21T01:47:40.385Z'
 sourcePath: _posts/2016-04-21-a-discussion-on-what-elements-make-an-interesting-portrait.md
 published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
