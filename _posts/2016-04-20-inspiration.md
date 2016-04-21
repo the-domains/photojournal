@@ -1,34 +1,31 @@
 ---
-inFeed: true
+authors: []
+dateModified: '2016-04-21T00:37:23.266Z'
+datePublished: '2016-04-21T00:45:45.316Z'
 hasPage: true
+inFeed: true
 inNav: false
-inLanguage: null
-starred: false
 keywords: []
-description: Inspiration
-datePublished: '2016-04-21T00:18:42.133Z'
-dateModified: '2016-04-21T00:17:08.719Z'
+publisher: {}
+starred: false
 title: ''
+description: Ins
 author: []
 sourcePath: _posts/2016-04-20-inspiration.md
 published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 url: inspiration/index.html
 _type: Article
 
 ---
+Ins
+
 Inspiration
 
 We've been asked to browse photo media sites to see what themes inspire us, and which platforms we find most engaging.
 
 Having tried out a few photo social media sites over the years, the latter is an easy question to answer. I'll break it down by platform for ease of reference:
 
-- 500px: Amazing images here. If I'm ever looking for some quick inspiration I know I'll find it here. Although they've introduced discussion forums in the last year, I've found them to be mostly full of people attempting to drum up likes and clicks on their photos and to be empty of any real information or discussion. 
+- 500px: Amazing images here. If I'm ever looking for some quick inspiration I know I'll find it here. Although they've introduced discussion forums in the last year, I've found them to be mostly full of people attempting to drum up likes and clicks on their photos and to be empty of any real information or discussion.
 
 - Instagram: Some extremely talented photographers on here with some amazing images, if you can filter past the gym selfies, food selfies, and cat selfies. Everyone has a phone these days and most of those people are uploading to their instagram account. If you can sift through the noise there is some incredible inspirational work on here.
 
@@ -38,7 +35,7 @@ Having tried out a few photo social media sites over the years, the latter is an
 
 - Tumblr: Like Instagram, some amazing work if you can sift through the noise.
 
-- VSCO
+- VSCO: Initially a software company providing film emulation presets for Lightroom, VSCO launched their own version of Instagram a few years back. There's some great work being produced here and curated feeds are published frequently to highlight some of the best imagery on this network. There's a thematic feel to the work shown here however due to all the images being processed with VSCO products, but if you're into the fake film look - which still seems to be very big these days - this site has some great inspiration.
 
 - Wordpress: I used a Wordpress blog for a 365 project a couple of years back. It was a great way to get in touch with people undertaking similar projects and to keep the drive up to soldier through the year by seeing what others were shooting. I kind of lost interest once I completed the project as other sites had more to offer.
 
