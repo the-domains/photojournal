@@ -1,25 +1,28 @@
 ---
-authors: []
-dateModified: '2016-04-21T00:37:23.266Z'
-datePublished: '2016-04-21T00:45:45.316Z'
-hasPage: true
 inFeed: true
+hasPage: true
 inNav: false
-keywords: []
-publisher: {}
+inLanguage: null
 starred: false
-title: ''
-description: Ins
+keywords: []
+description: "We've been asked to browse photo media sites to see what themes inspire us, and which platforms we find most engaging."
+datePublished: '2016-04-21T00:52:27.917Z'
+dateModified: '2016-04-21T00:51:39.434Z'
+title: Inspiration
 author: []
 sourcePath: _posts/2016-04-20-inspiration.md
 published: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 url: inspiration/index.html
 _type: Article
 
 ---
-Ins
-
-Inspiration
+# Inspiration
 
 We've been asked to browse photo media sites to see what themes inspire us, and which platforms we find most engaging.
 
