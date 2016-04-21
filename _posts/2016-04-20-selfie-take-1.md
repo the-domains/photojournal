@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The first assessment of this course is to identify how you represent yourself online, through a selfie, self-portrait, or brand. '
-datePublished: '2016-04-21T01:02:56.740Z'
-dateModified: '2016-04-21T01:01:54.883Z'
+datePublished: '2016-04-21T01:41:44.204Z'
+dateModified: '2016-04-21T01:41:05.790Z'
 title: selfie - take 1
 author:
   - name: ''
@@ -24,6 +24,8 @@ url: selfie-take-1/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fe32bd5-c859-4a21-a33d-3b340d4b116e.jpg)
+
 # Selfie - take 1
 
 The first assessment of this course is to identify how you represent yourself online, through a selfie, self-portrait, or brand. 
