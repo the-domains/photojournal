@@ -5,11 +5,13 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Self Portrait - take 2
-datePublished: '2016-04-21T00:32:47.068Z'
-dateModified: '2016-04-21T00:32:46.212Z'
-title: ''
-author: []
+description: 'A further exploration of self portraiture, this week was a continuation of the assessment from last week. The result, this:'
+datePublished: '2016-04-21T00:42:37.514Z'
+dateModified: '2016-04-21T00:41:46.991Z'
+title: Self Portrait - take 2
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-20-self-portrait-take-2.md
 published: true
 authors: []
@@ -22,10 +24,11 @@ url: self-portrait-take-2/index.html
 _type: Article
 
 ---
-Self Portrait - take 2
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2dc2db9-c3ad-405d-847a-744b6b6f3fef.jpg)
+
+# Self Portrait - take 2
 
 A further exploration of self portraiture, this week was a continuation of the assessment from last week. The result, this:
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2dc2db9-c3ad-405d-847a-744b6b6f3fef.jpg)
 
 I've usually got a goofy grin in pictures so was trying for a serious look this week. After a black and white image last week I wanted to try my hand at something with a bit of colour. I was aiming for calming colours so tried to offset the blue of the beanie, shirt, and eyes with a leafy green foliage background. A long lens and small aperture was selected to blur the background. A couple of torches were used for lighting, and a symmetrical square crop used to reinforce the calming colours.
 
