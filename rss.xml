@@ -4,7 +4,7 @@
         <description><![CDATA[FSH001 Photo Journal]]></description>
         <link>https://thegrid.ai/photojournal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 00:51:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 00:52:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photojournal/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[selfie - take 1]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/photojournal/selfie-take-1/index.html</link>
             <guid isPermaLink="false">9d46d2a5-f5e5-4d8f-83e5-00775cc2fe8b</guid>
             <pubDate>Thu, 21 Apr 2016 00:51:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inspiration]]></title>
+            <description><![CDATA[<article><h1>Inspiration</h1><p>We've been asked to browse photo media sites to see what themes inspire us, and which platforms we find most engaging.</p></article>]]></description>
+            <link>https://thegrid.ai/photojournal/inspiration/index.html</link>
+            <guid isPermaLink="false">42bb98e0-13ea-40cf-a98e-c67cf221a51b</guid>
+            <pubDate>Thu, 21 Apr 2016 00:52:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why?]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/photojournal/map-of-my-mind/index.html</link>
             <guid isPermaLink="false">eb4e4cc8-b409-4764-afe9-c0d19261b3f5</guid>
             <pubDate>Thu, 21 Apr 2016 00:45:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Ins</p>]]></description>
-            <link>https://thegrid.ai/photojournal/inspiration/index.html</link>
-            <guid isPermaLink="false">42bb98e0-13ea-40cf-a98e-c67cf221a51b</guid>
-            <pubDate>Thu, 21 Apr 2016 00:45:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Self Portrait - take 2]]></title>
