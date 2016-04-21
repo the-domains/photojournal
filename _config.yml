@@ -1,7 +1,7 @@
 name: PhotoJournal
 favicon: null
-layout_spectrum: 0.98684
-typography_spectrum: 0.3122
+layout_spectrum: 0.74522
+typography_spectrum: 0.37201
 title: FSH001 Photo Journal
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.25
   lightness: 0.4375
   saturation: 0.75
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.25
 purpose: []
