@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Map of my Mind
-datePublished: '2016-04-21T00:45:56.243Z'
-dateModified: '2016-04-21T00:25:05.333Z'
-title: ''
+description: "We're examining the personal 'self' this week - how to reflect your own persona in an image. To stimulate thoughts around this we were encouraged to create a mind map, detailing aspects of ourselves that can be explored photographically. "
+datePublished: '2016-04-21T00:55:10.030Z'
+dateModified: '2016-04-21T00:46:06.379Z'
+title: Map of my Mind
 author: []
 sourcePath: _posts/2016-04-20-map-of-my-mind.md
 published: true
@@ -22,7 +22,7 @@ url: map-of-my-mind/index.html
 _type: Article
 
 ---
-Map of my Mind
+# Map of my Mind
 
 We're examining the personal 'self' this week - how to reflect your own persona in an image. To stimulate thoughts around this we were encouraged to create a mind map, detailing aspects of ourselves that can be explored photographically. 
 
