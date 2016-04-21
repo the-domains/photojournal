@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: "This mini site is the beginning of my photo journal, created for my involvement in the Photography and Social Media course at the University of Tasmania. I'm undertaking the unit externally this semester in an effort to shake off my photographic cobwebs."
-datePublished: '2016-04-21T01:00:27.905Z'
-dateModified: '2016-04-21T01:00:02.685Z'
+datePublished: '2016-04-21T01:35:55.365Z'
+dateModified: '2016-04-21T01:35:45.044Z'
 title: A beginning...
 author: []
 sourcePath: _posts/2016-04-20-a-beginning.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: a-beginning/index.html
-_type: Article
+_type: Blurb
 
 ---
 # A beginning...
