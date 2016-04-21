@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: A beginning...
-datePublished: '2016-04-21T00:47:11.631Z'
-dateModified: '2016-04-21T00:23:13.648Z'
-title: ''
+description: "This mini site is the beginning of my photo journal, created for my involvement in the Photography and Social Media course at the University of Tasmania. I'm undertaking the unit externally this semester in an effort to shake off my photographic cobwebs."
+datePublished: '2016-04-21T00:54:12.507Z'
+dateModified: '2016-04-21T00:47:18.360Z'
+title: A beginning...
 author: []
 sourcePath: _posts/2016-04-20-a-beginning.md
 published: true
@@ -22,7 +22,7 @@ url: a-beginning/index.html
 _type: Article
 
 ---
-A beginning...
+# A beginning...
 
 This mini site is the beginning of my photo journal, created for my involvement in the Photography and Social Media course at the University of Tasmania. I'm undertaking the unit externally this semester in an effort to shake off my photographic cobwebs.
 
