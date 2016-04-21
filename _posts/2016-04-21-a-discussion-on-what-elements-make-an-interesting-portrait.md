@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A discussion on what elements make an interesting portrait
-datePublished: '2016-04-21T01:49:56.025Z'
-dateModified: '2016-04-21T01:48:35.885Z'
+datePublished: '2016-04-21T01:56:39.028Z'
+dateModified: '2016-04-21T01:49:57.441Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-a-discussion-on-what-elements-make-an-interesting-portrait.md
