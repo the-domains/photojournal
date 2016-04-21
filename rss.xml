@@ -4,8 +4,15 @@
         <description><![CDATA[FSH001 Photo Journal]]></description>
         <link>https://thegrid.ai/photojournal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 00:46:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 00:46:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photojournal/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Why?</p>]]></description>
+            <link>https://thegrid.ai/photojournal/why/index.html</link>
+            <guid isPermaLink="false">e875a446-6256-4e57-9297-16f1cdeeda97</guid>
+            <pubDate>Thu, 21 Apr 2016 00:46:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[selfie - take 1]]></title>
             <description><![CDATA[<article><h1>selfie - take 1</h1><p>Selfie - take 1</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cda7a7a-5f59-40a1-b84b-120657572238.jpg"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>https://fstoppers.com/originals/eight-portrait-photography-rules-you-should-try-breaking-122591?utm_source=FS_RSS&amp;utm_medium=RSS&amp;utm_campaign=Main_RSS</link>
             <guid isPermaLink="false">5214ca81-d7b3-4784-b22d-a27b81c63179</guid>
             <pubDate>Wed, 20 Apr 2016 22:51:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Why?</p>]]></description>
-            <link>https://thegrid.ai/photojournal/why/index.html</link>
-            <guid isPermaLink="false">e875a446-6256-4e57-9297-16f1cdeeda97</guid>
-            <pubDate>Wed, 20 Apr 2016 16:06:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
