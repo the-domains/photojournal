@@ -4,7 +4,7 @@
         <description><![CDATA[FSH001 Photo Journal]]></description>
         <link>https://thegrid.ai/photojournal/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 00:55:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 00:56:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photojournal/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[selfie - take 1]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/photojournal/selfie-take-1/index.html</link>
             <guid isPermaLink="false">9d46d2a5-f5e5-4d8f-83e5-00775cc2fe8b</guid>
             <pubDate>Thu, 21 Apr 2016 00:53:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eight Portrait Photography Rules You Should Try Breaking | Fstoppers]]></title>
+            <description><![CDATA[<article><h1>Eight Portrait Photography Rules You Should Try Breaking | Fstoppers</h1><p>There are two characters that sit atop adjacent shoulders either side of my head and squabble over portraiture. One takes the form of my Gran and she sits there quietly knitting and ensuring me that rules are there for a reason and without them there would be chaos; she's the voice of tranquillity, reason and over-feeding.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/397ef4cd9d2bdd330b023060012e03b5156acef1.jpg"></article>]]></description>
+            <link>https://fstoppers.com/originals/eight-portrait-photography-rules-you-should-try-breaking-122591?utm_source=FS_RSS&amp;utm_medium=RSS&amp;utm_campaign=Main_RSS</link>
+            <guid isPermaLink="false">5214ca81-d7b3-4784-b22d-a27b81c63179</guid>
+            <pubDate>Thu, 21 Apr 2016 00:56:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Self Portrait - take 2]]></title>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/photojournal/inspiration/index.html</link>
             <guid isPermaLink="false">42bb98e0-13ea-40cf-a98e-c67cf221a51b</guid>
             <pubDate>Thu, 21 Apr 2016 00:52:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eight Portrait Photography Rules You Should Try Breaking | Fstoppers]]></title>
-            <description><![CDATA[<article><h1>Eight Portrait Photography Rules You Should Try Breaking | Fstoppers</h1><p>Portraiture inspiration - breaking the rules</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/397ef4cd9d2bdd330b023060012e03b5156acef1.jpg"></article>]]></description>
-            <link>https://fstoppers.com/originals/eight-portrait-photography-rules-you-should-try-breaking-122591?utm_source=FS_RSS&amp;utm_medium=RSS&amp;utm_campaign=Main_RSS</link>
-            <guid isPermaLink="false">5214ca81-d7b3-4784-b22d-a27b81c63179</guid>
-            <pubDate>Wed, 20 Apr 2016 22:51:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
