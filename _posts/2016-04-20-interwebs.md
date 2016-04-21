@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: "I've dabbled with a few photo sharing sites over the years. While not particularly active, I frequently lurk and occasionally post at the following locations:"
-datePublished: '2016-04-21T00:54:41.426Z'
-dateModified: '2016-04-21T00:54:32.407Z'
+datePublished: '2016-04-21T01:00:52.323Z'
+dateModified: '2016-04-21T01:00:22.109Z'
 title: Interwebs
 author: []
 sourcePath: _posts/2016-04-20-interwebs.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: interwebs/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Interwebs
