@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We're examining the personal 'self' this week - how to reflect your own persona in an image. To stimulate thoughts around this we were encouraged to create a mind map, detailing aspects of ourselves that can be explored photographically. "
-datePublished: '2016-04-21T00:55:10.030Z'
-dateModified: '2016-04-21T00:46:06.379Z'
+datePublished: '2016-04-21T01:03:59.675Z'
+dateModified: '2016-04-21T00:55:17.161Z'
 title: Map of my Mind
 author: []
 sourcePath: _posts/2016-04-20-map-of-my-mind.md
