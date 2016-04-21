@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: A beginning...
-datePublished: '2016-04-20T15:44:43.611Z'
-dateModified: '2016-04-20T15:43:53.881Z'
+datePublished: '2016-04-21T00:47:11.631Z'
+dateModified: '2016-04-21T00:23:13.648Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-20-a-beginning.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-a-beginning.md
-published: true
 url: a-beginning/index.html
 _type: Article
 
@@ -30,4 +30,4 @@ I've had a fascination for photography for many years, starting with snapshots w
 
 While I enjoy taking snapshots of my family, my opportunities to explore my personal photographic interests have been hampered by other demands. Along with some new years resolutions that will never be fulfilled (I'm looking at you, gym membership), I made a vow to try to more fully explore my interest in photography this year. I'm hoping that this unit is the impetus I need to deeper indulge my shooting interests and to explore what aspects of photography grab me most.
 
-A component of this unit is to maintain a photo journal
+A component of this unit is to maintain a photo journal to explore my photographic journey, and this is what I intend to document on these pages over the coming months...
