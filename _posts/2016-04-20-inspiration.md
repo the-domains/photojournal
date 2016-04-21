@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Inspiration
-datePublished: '2016-04-20T16:34:16.608Z'
-dateModified: '2016-04-20T16:33:53.628Z'
+datePublished: '2016-04-21T00:18:42.133Z'
+dateModified: '2016-04-21T00:17:08.719Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-20-inspiration.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-inspiration.md
-published: true
 url: inspiration/index.html
 _type: Article
 
@@ -37,6 +37,8 @@ Having tried out a few photo social media sites over the years, the latter is an
 - Pinterest: Great for lifestyle imagery, although I find it more product oriented than artful. Good for a browse and for the creation of mood boards, but I don't tend to spend too much time here.
 
 - Tumblr: Like Instagram, some amazing work if you can sift through the noise.
+
+- VSCO
 
 - Wordpress: I used a Wordpress blog for a 365 project a couple of years back. It was a great way to get in touch with people undertaking similar projects and to keep the drive up to soldier through the year by seeing what others were shooting. I kind of lost interest once I completed the project as other sites had more to offer.
 
