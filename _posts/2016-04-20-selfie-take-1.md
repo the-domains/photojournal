@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'The first assessment of this course is to identify how you represent yourself online, through a selfie, self-portrait, or brand. '
-datePublished: '2016-04-21T00:53:29.872Z'
-dateModified: '2016-04-21T00:53:28.701Z'
+datePublished: '2016-04-21T00:57:18.070Z'
+dateModified: '2016-04-21T00:53:31.587Z'
 title: selfie - take 1
 author:
   - name: ''
@@ -36,3 +36,4 @@ With that in mind, here's take 1 of my self-portrait assessment:
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cda7a7a-5f59-40a1-b84b-120657572238.jpg)
 
 I was going for the feel of emerging from the darkness of non-selfiedom here. A fast shutter speed and two torches either side of me were used for lighting and to darken the white blind behind me. I've positioned myself off-center to add an element of tension to reflect the discomfort I had in taking this shot and used black and white to meet the tone of the black background (and because I like black and white images). I think I could improve upon the image by a adding a reflector under my chin to bounce some light and lighten the shadows.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d73427b-545c-4cca-8d96-c5fb6c4b9e3d.jpg)
