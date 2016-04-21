@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "There are two characters that sit atop adjacent shoulders either side of my head and squabble over portraiture. One takes the form of my Gran and she sits there quietly knitting and ensuring me that rules are there for a reason and without them there would be chaos; she's the voice of tranquillity, reason and over-feeding."
-datePublished: '2016-04-21T01:19:46.057Z'
-dateModified: '2016-04-21T01:19:25.135Z'
+datePublished: '2016-04-21T01:46:03.468Z'
+dateModified: '2016-04-21T01:45:20.266Z'
 title: 'Eight Portrait Photography Rules You Should Try Breaking | Fstoppers'
 author: []
 sourcePath: _posts/2016-04-20-eight-portrait-photography-rules-you-should-try-breaking-or-f.md
